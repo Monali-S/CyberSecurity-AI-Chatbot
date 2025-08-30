@@ -1,6 +1,6 @@
 # CyberSecurity-AI-Chatbot
 # Developed a beginner level chatbot that answers your questions related to the feild of cybersecurity.
-# Backend Code(can be hosted on google colab or VS Code)
+# Backend Code(can be hosted on Google Colab or VS Code)
 
 %%writefile app.py
 import streamlit as st
